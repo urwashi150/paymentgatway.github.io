@@ -1,0 +1,85 @@
+*{
+  margin:0; 
+  padding:0;
+  box-sizing:border-box;
+  background-color: lightblue;
+  font-family: 'Josefin Sans', sans-serif;
+  background-image: url('donate.jpeg'); 
+  background-repeat: no-repeat;
+  background-size:cover;
+  
+}
+body{
+  background-color: lightblue;
+  width:100%;
+  height:100%;
+  
+}
+div .pic{
+  width:100%;
+  height:100%;
+  background-repeat: no-repeat;
+  float: center;
+}
+}
+nav .logo
+{
+  width: 10px;
+  height: 10px;
+  background-repeat: no-repeat;
+  border: 1px solid red;  
+   
+}
+nav .family{
+font-size: 40px;
+
+}
+nav .one{
+font-size: 30px;
+
+}
+nav .list{
+background-color: lightblue;  
+}
+
+ul {
+  border-image-source: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border-style: solid;
+  background-color: lightblue;
+}
+li {
+  float: right;
+  background-color: lightblue;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  background-color: lightblue;
+
+}
+div{
+  background-color: darkblue;
+  border-style: solid;
+  background-color: lightblue;
+}
+
+nav .two {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
