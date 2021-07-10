@@ -22,12 +22,13 @@ div .pic{
   float: center;
 }
 }
-nav .logo
+.logo
 {
   width: 10px;
   height: 10px;
   background-repeat: no-repeat;
-  border: 1px solid red;  
+  border: 1px solid red;
+  float: left;  
    
 }
 nav .family{
@@ -39,7 +40,7 @@ font-size: 30px;
 
 }
 nav .list{
-background-color: lightblue;  
+background-color: navyblue;  
 }
 
 ul {
@@ -49,26 +50,29 @@ ul {
   padding: 0;
   overflow: hidden;
   border-style: solid;
-  background-color: lightblue;
+  background-color: navyblue;
 }
 li {
   float: right;
-  background-color: lightblue;
+  background-color: navyblue;
 }
 
 li a {
   display: block;
   color: black;
   text-align: center;
-  padding: 14px 16px;
+  padding: 16px 16px;
   text-decoration: none;
-  background-color: lightblue;
+  background-color: navyblue;
+  background-image: none;
 
 }
+.menubar{
+  float: left;
+}
 div{
-  background-color: darkblue;
   border-style: solid;
-  background-color: lightblue;
+  background-color: navyblue;
 }
 
 nav .two {
